@@ -39,10 +39,10 @@ end
 
 def play(board)
   counter = 0
-  loop do
    puts turn(board)
     while counter =< 9
     counter += 1
+  end
   end
  
     
