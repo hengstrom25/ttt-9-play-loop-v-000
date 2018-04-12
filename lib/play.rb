@@ -42,7 +42,7 @@ def play(board)
    puts turn(board)
     while counter <= 9
     counter += 1
-  end
+    end
   end
  
     
